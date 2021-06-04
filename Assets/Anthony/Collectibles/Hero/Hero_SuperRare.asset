@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15732cea0c344ad43833d4bb2498ca7b, type: 3}
+  m_Name: Hero_SuperRare
+  m_EditorClassIdentifier: 
+  itemName: Yedine
+  itemID: 0
+  itemType: 0
+  itemRarity: 2
+  itemSprite: {fileID: -6367560908665664636, guid: c0a1f70a3a6bc6542901affe1f058798, type: 3}
+  itemAnimatorController: {fileID: 0}
+  itemEffectDescription: Max life +3
+  extraLife: 3
+  healLife: 0
+  coinMultiplier: 1
+  zoomMultiplier: 1
+  firstLetterHelper: 0

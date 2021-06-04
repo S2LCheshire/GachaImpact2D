@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ff6f74330367d4da408f03e65c87dd, type: 3}
+  m_Name: Gold Bad
+  m_EditorClassIdentifier: 
+  collectiblesList:
+  - {fileID: 11400000, guid: 3c04536020b82ae4797b14abb0c23e9b, type: 2}
+  - {fileID: 11400000, guid: c97366dddae124441849537396c44b91, type: 2}
+  - {fileID: 11400000, guid: 9db4aed61375c8142a2e8a0f17d81901, type: 2}
+  - {fileID: 11400000, guid: 265980e75b7ae1940b93b6df97ca94d6, type: 2}
+  - {fileID: 11400000, guid: 4ba929abdfdf94649a9cc62ae540bb81, type: 2}
+  - {fileID: 11400000, guid: e872a9a182a8c1943b70e17740996253, type: 2}
+  - {fileID: 11400000, guid: 810620ba9b3b99e45aa801b7e209dd11, type: 2}
+  - {fileID: 11400000, guid: feb0482278c1b9e438804d994753194a, type: 2}
+  - {fileID: 11400000, guid: 3e2b57174e3941f42b7f0bab372df64f, type: 2}
+  - {fileID: 11400000, guid: 7b497bf46a4d4704e8031bb4cae60046, type: 2}
+  - {fileID: 11400000, guid: e63011d3c84bfec4d95b057a9399470d, type: 2}
+  - {fileID: 11400000, guid: 5f35319592b38ab4ea1c6e0fe49fff81, type: 2}
+  - {fileID: 11400000, guid: f96219fd66a2a304eb8c6233cf668540, type: 2}
+  weightList: 03000000010000000400000004000000040000000100000001000000010000000100000004000000040000000100000001000000
+  boxName: Gold_Bad
+  boxType: 2

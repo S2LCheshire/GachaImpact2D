@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ff6f74330367d4da408f03e65c87dd, type: 3}
+  m_Name: Bronze Bad
+  m_EditorClassIdentifier: 
+  collectiblesList:
+  - {fileID: 11400000, guid: 3b988364df0d4d7469b4c1cd46d4b1e9, type: 2}
+  - {fileID: 11400000, guid: 67b2a250de00dbf45a5e32ad7453b1c2, type: 2}
+  - {fileID: 11400000, guid: 3c96b3b7a6ac77c43935cc774e04b330, type: 2}
+  - {fileID: 11400000, guid: 2c5a9705948895a44ad54781984af305, type: 2}
+  - {fileID: 11400000, guid: a98801e23c1af6243b5a9916bda727fb, type: 2}
+  - {fileID: 11400000, guid: 6563b8c60c2cbe048b4d7b146ee0f7ff, type: 2}
+  - {fileID: 11400000, guid: da1f5e0d83fac874b9cbb593258a68b6, type: 2}
+  - {fileID: 11400000, guid: b640e63116d6e7541ab49fbf7408af35, type: 2}
+  - {fileID: 11400000, guid: 8de308219ea03d24aa51a8ebe7754959, type: 2}
+  - {fileID: 11400000, guid: 6aa2d1521a0db404bbbbcdfd7be0a0f8, type: 2}
+  - {fileID: 11400000, guid: 04f86ca96b5fe454682fa02890d019b2, type: 2}
+  - {fileID: 11400000, guid: c0fa1784576a9a749b42ef52583e392a, type: 2}
+  weightList: 000000000000000000000000000000000100000001000000010000000100000001000000010000000100000001000000
+  boxName: Bronze_Bad
+  boxType: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15732cea0c344ad43833d4bb2498ca7b, type: 3}
+  m_Name: Pet_Rare 5
+  m_EditorClassIdentifier: 
+  itemName: Sputnik
+  itemID: 0
+  itemType: 1
+  itemRarity: 1
+  itemSprite: {fileID: -6077868597088469121, guid: 171138a0fe2aa324cae5a41687bc4454, type: 3}
+  itemAnimatorController: {fileID: 0}
+  itemEffectDescription: +25 coin and +10% coin / game
+  extraLife: 0
+  healLife: 0
+  extraCoin: 25
+  coinMultiplier: 0.1
+  zoomMultiplier: 1
+  firstLetterHelper: 0

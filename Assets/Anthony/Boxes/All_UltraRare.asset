@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ff6f74330367d4da408f03e65c87dd, type: 3}
+  m_Name: All_UltraRare
+  m_EditorClassIdentifier: 
+  collectiblesList:
+  - {fileID: 11400000, guid: a3603eac525ad6842aa5d68081839cc6, type: 2}
+  - {fileID: 11400000, guid: 35d7c79dc969bc04bb30d6c327216900, type: 2}
+  - {fileID: 11400000, guid: c91577d9f73c4cf4ab54ddbd5d9f21d1, type: 2}
+  - {fileID: 11400000, guid: adbcb7429dd61744d9dcd7ff450ea48a, type: 2}
+  weightList: 01000000010000000100000001000000
+  boxName: All UltraRares
+  boxType: 0

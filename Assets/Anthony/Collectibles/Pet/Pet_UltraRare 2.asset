@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15732cea0c344ad43833d4bb2498ca7b, type: 3}
+  m_Name: Pet_UltraRare 2
+  m_EditorClassIdentifier: 
+  itemName: Eikailenth, The Eternal
+  itemID: 0
+  itemType: 1
+  itemRarity: 3
+  itemSprite: {fileID: 465714023092435484, guid: 224764e8a6c2992428be294d4d5400e8, type: 3}
+  itemAnimatorController: {fileID: 0}
+  itemEffectDescription: +300 coin and +60% coin / game
+  extraLife: 0
+  healLife: 0
+  extraCoin: 300
+  coinMultiplier: 0.6
+  zoomMultiplier: 1
+  firstLetterHelper: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ff6f74330367d4da408f03e65c87dd, type: 3}
+  m_Name: Silver Base
+  m_EditorClassIdentifier: 
+  collectiblesList:
+  - {fileID: 11400000, guid: 3b988364df0d4d7469b4c1cd46d4b1e9, type: 2}
+  - {fileID: 11400000, guid: 3c04536020b82ae4797b14abb0c23e9b, type: 2}
+  - {fileID: 11400000, guid: c1880a62db12ac2499b88f210c992ecc, type: 2}
+  - {fileID: 11400000, guid: 53e2766f31d3fe64da1e0e6fb55ad00c, type: 2}
+  - {fileID: 11400000, guid: c5fc9ec26a76bfd46a52b686c4884469, type: 2}
+  - {fileID: 11400000, guid: 9db4aed61375c8142a2e8a0f17d81901, type: 2}
+  - {fileID: 11400000, guid: 265980e75b7ae1940b93b6df97ca94d6, type: 2}
+  - {fileID: 11400000, guid: 4ba929abdfdf94649a9cc62ae540bb81, type: 2}
+  - {fileID: 11400000, guid: 67b2a250de00dbf45a5e32ad7453b1c2, type: 2}
+  - {fileID: 11400000, guid: 3c96b3b7a6ac77c43935cc774e04b330, type: 2}
+  - {fileID: 11400000, guid: 2c5a9705948895a44ad54781984af305, type: 2}
+  - {fileID: 11400000, guid: 7b497bf46a4d4704e8031bb4cae60046, type: 2}
+  - {fileID: 11400000, guid: e63011d3c84bfec4d95b057a9399470d, type: 2}
+  weightList: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  boxName: Silver_Base
+  boxType: 1
